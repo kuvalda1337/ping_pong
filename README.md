@@ -1,3 +1,3 @@
 # ping_pong
-game ping pong <br\>
+game ping pong \
 ![Image alt](/materials/PONG.png)
